@@ -1,1 +1,5 @@
-I too exprineced the magic of music in my life , a experinece that changed me forever .Batchest
+<<<<<<< HEAD
+I too exprineced the magic of music in my life , a experinece that changed me forever .
+=======
+I too exprineced the magic of music in my life , a experinece that changed me forever . 
+>>>>>>> alienstory
